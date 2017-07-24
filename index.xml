@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Last.Backend</title>
+    <link>https://lastbackend.com/</link>
+    <description>Recent content on Last.Backend</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    
+	<atom:link href="https://lastbackend.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://lastbackend.com/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lastbackend.com/about/</guid>
+      <description>  {{ partial &#34;head&#34; . }} {{ partial &#34;scripts&#34; . }}   {{ partial &#34;nav&#34; .}} {{ partial &#34;about/preview&#34; . }} {{ partial &#34;about/team&#34; . }} {{ partial &#34;about/philosophy&#34; . }} {{ partial &#34;bottom_nav&#34; . }} {{ partial &#34;footer&#34; . }}  </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lastbackend.com/cloud/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lastbackend.com/cloud/</guid>
+      <description>{{ partial &#34;head&#34; . }} {{ partial &#34;scripts&#34; . }}   {{ partial &#34;nav&#34; .}} {{ partial &#34;home/preview&#34; . }} {{ partial &#34;cloud/deploy&#34; . }} {{ partial &#34;cloud/cli_main&#34; . }} {{ partial &#34;cloud/apps&#34; . }} {{ partial &#34;home/cli&#34; . }} {{ partial &#34;home/map&#34; . }} {{ partial &#34;home/bottom_preview&#34; . }} {{ partial &#34;bottom_nav&#34; . }} {{ partial &#34;footer&#34; . }}    (function () { var w = window; var ic = w.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lastbackend.com/dedicated/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lastbackend.com/dedicated/</guid>
+      <description>{{ partial &#34;head&#34; . }} {{ partial &#34;scripts&#34; . }}   {{ partial &#34;nav&#34; .}} {{ partial &#34;dedicated/preview&#34; . }} {{ partial &#34;dedicated/kinds&#34; . }} {{ partial &#34;dedicated/pdf&#34; . }} {{ partial &#34;dedicated/map&#34; . }} {{ partial &#34;feedback&#34; . }} {{ partial &#34;bottom_nav&#34; . }} {{ partial &#34;footer&#34; . }}  (function () { var w = window; var ic = w.Intercom; if (typeof ic === &#34;function&#34;) { ic(&#39;reattach_activator&#39;); ic(&#39;update&#39;, intercomSettings); } else { var d = document; var i = function () { i.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lastbackend.com/enterprise/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lastbackend.com/enterprise/</guid>
+      <description>{{ partial &#34;head&#34; . }} {{ partial &#34;scripts&#34; . }}   {{ partial &#34;nav&#34; .}} {{ partial &#34;enterprise/preview&#34; . }} {{ partial &#34;enterprise/kinds&#34; . }} {{ partial &#34;enterprise/why&#34; . }} {{ partial &#34;enterprise/feedback&#34; . }} {{ partial &#34;bottom_nav&#34; . }} {{ partial &#34;footer&#34; . }}  (function () { var w = window; var ic = w.Intercom; if (typeof ic === &#34;function&#34;) { ic(&#39;reattach_activator&#39;); ic(&#39;update&#39;, intercomSettings); } else { var d = document; var i = function () { i.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lastbackend.com/privacy/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lastbackend.com/privacy/</guid>
+      <description>  {{ partial &#34;head&#34; . }} {{ partial &#34;scripts&#34; . }}   {{ partial &#34;nav&#34; .}} {{ partial &#34;privacy/privacy&#34; . }} {{ partial &#34;bottom_nav&#34; . }} {{ partial &#34;footer&#34; . }}   </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://lastbackend.com/products/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://lastbackend.com/products/</guid>
+      <description>{{ partial &#34;head&#34; . }} {{ partial &#34;scripts&#34; . }}   {{ partial &#34;nav&#34; .}} {{ partial &#34;products/preview&#34; .}} {{ partial &#34;products/kinds&#34; .}} {{ partial &#34;products/use_cases&#34; .}} {{ partial &#34;products/resources&#34; .}} {{ partial &#34;bottom_nav&#34; . }} {{ partial &#34;footer&#34; . }}  (function () { var w = window; var ic = w.Intercom; if (typeof ic === &#34;function&#34;) { ic(&#39;reattach_activator&#39;); ic(&#39;update&#39;, intercomSettings); } else { var d = document; var i = function () { i.</description>
+    </item>
+    
+  </channel>
+</rss>
